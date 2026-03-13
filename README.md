@@ -4,6 +4,8 @@ This is a simple and interactive Quiz Application built using HTML, CSS, and Jav
 
 The quiz keeps track of the user’s score and displays the final result at the end of the quiz. This project focuses on practicing JavaScript DOM manipulation, event handling, array-based data management, and basic application logic. It is a beginner-friendly project designed to strengthen core JavaScript concepts and build confidence in creating real-world interactive applications.
 
+## Live Demo
+[Click here for Live Demo](https://chnaumangujjar0.github.io/Quiz-App/)
 <h1>🚀 Features</h1>
 
 Multiple-choice questions
